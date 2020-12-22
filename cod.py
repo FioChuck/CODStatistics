@@ -11,7 +11,7 @@ import numpy as np
 
 ##### Passwords #####
 try:
-   from settings import *
+   from local_settings import *
 except ImportError:
    pass
 
